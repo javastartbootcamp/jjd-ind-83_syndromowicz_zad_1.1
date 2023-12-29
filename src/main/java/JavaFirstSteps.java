@@ -5,6 +5,5 @@ public class JavaFirstSteps {
         System.out.println("programowania");
 
     }
-
-    }
+}
 
